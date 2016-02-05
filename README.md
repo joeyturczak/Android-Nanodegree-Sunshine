@@ -1,9 +1,13 @@
-Advanced Android Sample App
+Sunshine
 ===================================
 
 Synchronizes weather information from OpenWeatherMap on Android Phones and Tablets. Used in the Udacity Advanced Android course.
 
 This app requires an api key to use the OpenWeatherMap API. To get an API key go to openweathermap.org/api and replace My-API-Key in the build.gradle file in the app module.
+
+This project was built for the Android Developer Nanodegree program at Udacity. Added a watch face for Android Wear so users can access Sunshine's weather information at a glance.
+
+The original source code for this project can be found here: https://github.com/udacity/Advanced_Android_Development/tree/7.05_Pretty_Wallpaper_Time
 
 Pre-requisites
 --------------
